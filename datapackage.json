@@ -1,0 +1,42 @@
+{
+  "name": "data-vendors",
+  "title": "Surveillance Vendors",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": "PDDL-1.0",
+  "resources": [
+    {
+      "name": "suppliers",
+      "path": "suppliers.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 7957,
+      "schema": {
+        "fields": [
+          {
+            "name": "company",
+            "type": "string",
+            "description": "Name of the company"
+          },
+          {
+            "name": "website",
+            "type": "string",
+            "description": "Website of the company"
+          },
+          {
+            "name": "solution",
+            "type": "string",
+            "description": "Type of technology provided"
+          },
+          {
+            "name": "country",
+            "type": "string",
+            "description": "Country code"
+          }
+        ]
+      }
+    }
+  ],
+  "description": "A data package of suppliers of surveillance tech",
+  "repository": "git://github.com/digitalfreedom/data-vendors.git"
+}
