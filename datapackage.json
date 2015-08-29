@@ -6,11 +6,10 @@
   "license": "PDDL-1.0",
   "resources": [
     {
-      "name": "suppliers",
-      "path": "suppliers.csv",
+      "name": "vendors",
+      "path": "vendors.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "bytes": 7957,
       "schema": {
         "fields": [
           {
@@ -37,6 +36,6 @@
       }
     }
   ],
-  "description": "A data package of suppliers of surveillance tech",
+  "description": "A data package of vendors of surveillance tech",
   "repository": "git://github.com/digitalfreedom/data-vendors.git"
 }
