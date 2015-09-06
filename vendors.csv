@@ -1,138 +1,143 @@
-company,website,solution,country
-Stratign FZCO,http://www.stratign.com/,Tactical Interception,AE
-FireDigit bvba,http://www.firedigit.com,Lawful Interception,BE
-Suntech Intelligence,http://www.suntechintelligence.com/,"Lawful Interception, Data Retention, Intelligent Interception Transmission ",BR
-ARCADIA aka ARC4DIA,http://www.arc4dia.com/,Exploits,CA
-"MERA Systems, Inc.",http://www.netbeholder.com/,"Internet surveillance, Monitoring",CA
-NETSWEEPER,http://www.netsweeper.com/ ,"Internet Monitoring, Filtering ",CA
-Dreamlab Technologies AG,http://www.dreamlab.net/,"Lawful interception, Lawful interception of VoIP, Trojans",CH
-ERA IT Solutions AG,http://www.era-it.ch/,Trojans,CH
-NEOSOFT,http://www.neosoft.ch/,Tactical GSM Interception,CH
-Huawei Technologies,,"Lawful Interception, COMINT ",CN
-Vixtel,,Lawful Interception,CN
-YTRAIL,,Social Network Intelligence,CN
-ZTE,,Lawful Interception,CN
-INVEA-TECH,,"Lawful Interception, Data Retention",CZ
-Phonexia s.r.o.,,Speech Recognition,CZ
-ATIS systems GmbH (ATIS UHER),,"Lawful Interception, Large Scale ComInt Monitoring ",DE
-DATAKOM,,"Lawful Interception, Interception Systems",DE
-DigiTask,,"Trojans, WiFi Interception",DE
-EBS-Electronic GmbH,,Tactical Tracking Devices,DE
-Elaman,,"Trojans, Strategic & Tactical Communication Monitoring, Intelligence Gathering ",DE
-GTEN DATAKOM,,Lawful Interception,DE
-IBH Impex,,"Tactical Satellite, GSM and Radio Interception, Internet Monitoring, Bugs, Sweeping (TCSM)",DE
-IPOQUE,,Deep Packet Inspection (DPI),DE
-KBI Optronics GmbH,,Surveillance and Reconnaissance Systems,DE
-Medav GmbH,,Radio Monitoring and Surveillance Solutions,DE
-@one IT GmbH,,Lawful Interception,DE
-PAD Datentechnik GmbH,,Covert Tracking Devices with Audio Transmission,DE
-PK-Electronic,,Tactical SIGINT/COMINT Systems,DE
-Plath GmbH,,"Communication Profiling, COPS, Thuraya Interception ",DE
-Rohde & Schwarz,,"HF-Monitoring, Direction Finding",DE
-Selectronic,,Tracking,DE
-Siemens,,"Intelligence Platform, Lawful Interception, Monitoring Center",DE
-Syborg,,Lawful Interception,DE
-Trovicor,,"Lawful interception, Monitoring Centers, Siemens Intelligence Center",DE
-Utimaco Safeware,,"Network Monitoring, Lawful interception, Data Retention ",DE
-Vervis COMINT Services GmbH,,Monitoring,DE
-3M Services,,Lawful Interception,DE
-GAMMA Group,,"Trojans, Tactical Interception",GB
-ETI A/S,,"Lawful Interception, Monitoring",DK
-Spectronic Systems A/S,,Speech Recognition,DK
-Unispeed A/S,,Lawful Interception,DK
-AGNITIO S.L.,,Speech Recognition,ES
-Alcatel-Lucent,,Lawful Interception ,FR
-AMESYS,,"Tactical and Strategic Interception, Lawful Interception, COMINT, Monitoring, Speech Recognition",FR
-AQSACOM,,"Lawful Interception, Internet Monitoring ",FR
-QOSMOS,,"Network Intelligence, Deep Packet Inspection (DPI), Identity Tracking ",FR
-Thales,,"Surveillance, Detection and Intelligence Platform ",FR
-VUPEN,,Exploits,FR
-AUDIOTEL International,,Tactical COMINT Systems and Countermeasures,GB
-Cambridge Consultants,,Consultancy on mobile Surveillance,GB
-COBHAM,,Tactical GSM Interception,GB
-Creativity Software,,"Lawful interception, Location Positioning Infrastructure",GB
-DATONG,,"GSM Passive Surveillance, Tactical Interception",GB
-Delma MSS,,GSM Tracking,GB
-Detica,,Information/ Intelligence Processing,GB
-Griff Comm Ltd,,Covert Surveillance,GB
-Hidden Technology Systems International Ltd,,"Covert Tracking, Surveillance Devices",GB
-Newport Networks,,VoIP COMINT,GB
-Panoptech,,Convergent Intelligence Platform,GB
-telesoft TECHNOLOGIES,,"Lawful interception, SIGINT/COMINT Components, Tactical Monitoring",GB
-Teletel,,Lawful Interception,GR
-NETI,,"Monitoring, Analytical Tools, Tactical Appliances ",HU
-ClearTrail,,"Lawful Interception, COMINT, Strategic Interception, Mass Monitoring of IP and Voice Networks",IN
-Kommlabs Dezign Pvt. Ltd.,,"Lawful Interception, Strategic Interception, Tactical GSM Interception",IN
-SHOGI Communications,,Tactical SIGINT/COMINT Systems,IN
-OPENET,,Lawful Interception,IE
-VigiTrust,,Intelligence Solutions,IE
-Ability,,"Satellite interception, Cellular interception, GSM deciphering, Thuraya & ACES Interception systems",IL
-Allot Communications Ltd,,Deep Packet Inspection (DPI),IL
-Cellebrite Mobile Synchronization Ltd.,,Cell Phone Forensics ,IL
-Elbit Systems,,"Intelligence Support, C4I. Collection, Analysis, PC Surveillance, Covert Intelligence",IL
-Elta Systems Ltd.,,"SIGINT, Tactical GSM/UMTS/WIMAX/Satellite Interception/Monitoring/Tracking",IL
-Gita Technologies Ltd.,,SIGINT/COMINT,IL
-Nice Systems,,"Monitoring, Investigating, Tracking",IL
-Septier,,Dual Usage Strategy of Lawful Interception Systems ,IL
-Area Spa,,"Lawful Interception, Tactical Interception",IT
-B.E.A. S.r.l.,,Tactical Interception Devices,IT
-DIGINT Srl,,Lawful Interception,IT
-Expert System S.p.A.,,Semantic Analysis,IT
-Hacking Team,,Trojans ,IT
-Innova S.p.A.,,"Lawful interception, Monitoring, Tactical Tracking & Surveillance",IT
-IPS Intelligence & Public Security S.p.A.,,"Monitoring, Recording, DPI, MITM",IT
-LOQUENDO,,Broadband Analysis and Monitoring,IT
-RCS,,"IP Traffic Analysis, Social Networks Monitoring, Trojans, GSM",IT
-Spektra srl,,"Tactical Interception, Positioning/Tracking",IT
-IVIGNERI,,GSM Decryption,MY
-Motec,,"Strategical Monitoring, Tactical Surveillance",MY
-DigiVox B.V.,,"Lawful Interception, Tactical GSM Interception",NL
-Fox-IT,,"Lawful Interception, Interception Analytics",NL
-GROUP2000,,"Lawful Interception, Deep Packet Inspection (DPI)",NL
-Tinex,,"Lawful Interception, Tactical Interception",NO
-ENDACE accelerated,,"Traffic Data Processing, Monitoring",NZ
-Audio Video Intelligence Corporation,,Tactical Audio/Video/GSM Interception,PH
-Macro System,,"Lawful Interception, Telecommunication Surveillance",PL
-"Speech Technology Center, Ltd.",,Audio Forensics,RU
-ISKRATEL,,"Lawful Interception, SORM",SI
-Ericsson,,"Ericsson surveillance suite Monitoring, Lawful Interception",SE
-Micro Systemation AB,,Cell Phone Forensics,SE
-C Tech Bilişim Teknolojileri San. ve Tic. AS.,,"Lawful Interception, Monitoring, Deep Packet Inspection (DPI)",TR
-Tamara Electronic Ltd. Sti,,Passive Monitoring,TR
-Altron,,"Lawful Interception, Monitoring, Recording",UA
-Delta SPE,,Collection & Processing of Packet Data Satellite Services,UA
-ACCESSDATA,,"Digital Investigation, Forensics, Decryption ",US
-ACME Packet,,"SBCS, MSGs, SRPs, Lawful interception of VoIP",US
-BlueCoat,,"Intelligence Centers, Deep Packet Inspection (DPI), Internet Filtering ",US
-BRIGHTPLANET,,Social Network Intelligence,US
-CommuniGate Systems,,Lawful Interception ,US
-Comverse,,Lawful Interception,US
-Cyberoam,,Deep Packet Inspection (DPI),US
-Dialogic,,SMS Monitoring,US
-Gigamon,,Gigabit Internet Monitoring,US
-Glimmerglass,,Monitoring of optical signals and networks,US
-Guidance Software,,"Encase Intelligence Software, Forensics ",US
-Harris Wireless Products Group,,Tactical Mobile Phone Interception and Tracking,US
-HSS Development,,Tactical Mobile Phone Interception and Jamming,US
-Intelligentias Inc.,,"Lawful Interception, Data Retention",US
-Narus,,"Real-Time IP Traffic Monitoring, Traffic Intelligence, Deep Packet Inspection (DPI)",US
-NETOPTICS,,Access and Monitoring Architecture,US
-NETRAGARD,,Exploits,US
-Netquest Corporation,,"Monitoring, Interception",US
-NetWitness,,Internet Monitoring ,US
-ONPATH Technologies,,Lawful Interception,US
-Pen Link,,Collection & Recording of Intercepted Communication,US
-Phoenix,,Speech Recognition,US
-Polaris Wireless,,Lawful Interception,US
-retentia,,Data Retention,US
-REUTER,,Recording Systems for Communication Surveillance,US
-SS8 Networks,,"Lawful Interception, Monitoring Center",US
-TraceSpan Communications,,Broadband Analysis and Monitoring,US
-Ultrareach,,Ultrasurf ,US
-VERINT (formerly: Comverse Infosys),,Lawful Interception,US
-Vineyard Networks,,"Lawful Interception, Decryption",US
-"VOCAL Technologies, Inc.",,Lawful Interception ,US
-OMNI Wildpackets,,"Lawful Interception, VoIP Monitoring",US
-Seartech,,Tactical Surveillance Electronics,ZA
-VASTech,,"Network Recording, Passive Surveillance, Strategic Interception",ZA
-FinFisher GmbH,https://www.finfisher.com,Trojan,DE
+"company","website","solution","country"
+"Stratign FZCO","http://www.stratign.com/","Tactical Interception","AE"
+"FireDigit bvba","http://www.firedigit.com","Lawful Interception","BE"
+"Suntech Intelligence","http://www.suntechintelligence.com/","Lawful Interception, Data Retention, Intelligent Interception Transmission ","BR"
+"ARCADIA aka ARC4DIA","http://www.arc4dia.com/","Exploits","CA"
+"MERA Systems, Inc.","http://www.netbeholder.com/","Internet surveillance, Monitoring","CA"
+"NETSWEEPER","http://www.netsweeper.com/ ","Internet Monitoring, Filtering ","CA"
+"Dreamlab Technologies AG","http://www.dreamlab.net/","Lawful interception, Lawful interception of VoIP, Trojans","CH"
+"ERA IT Solutions AG","http://www.era-it.ch/","Trojans","CH"
+"NEOSOFT","http://www.neosoft.ch/","Tactical GSM Interception","CH"
+"Huawei Technologies",,"Lawful Interception, COMINT ","CN"
+"Vixtel",,"Lawful Interception","CN"
+"YTRAIL",,"Social Network Intelligence","CN"
+"ZTE",,"Lawful Interception","CN"
+"INVEA-TECH",,"Lawful Interception, Data Retention","CZ"
+"Phonexia s.r.o.",,"Speech Recognition","CZ"
+"ATIS systems GmbH (ATIS UHER)",,"Lawful Interception, Large Scale ComInt Monitoring ","DE"
+"DATAKOM",,"Lawful Interception, Interception Systems","DE"
+"DigiTask",,"Trojans, WiFi Interception","DE"
+"EBS-Electronic GmbH",,"Tactical Tracking Devices","DE"
+"Elaman",,"Trojans, Strategic & Tactical Communication Monitoring, Intelligence Gathering ","DE"
+"GTEN DATAKOM",,"Lawful Interception","DE"
+"IBH Impex",,"Tactical Satellite, GSM and Radio Interception, Internet Monitoring, Bugs, Sweeping (TCSM)","DE"
+"IPOQUE",,"Deep Packet Inspection (DPI)","DE"
+"KBI Optronics GmbH",,"Surveillance and Reconnaissance Systems","DE"
+"Medav GmbH",,"Radio Monitoring and Surveillance Solutions","DE"
+"@one IT GmbH",,"Lawful Interception","DE"
+"PAD Datentechnik GmbH",,"Covert Tracking Devices with Audio Transmission","DE"
+"PK-Electronic",,"Tactical SIGINT/COMINT Systems","DE"
+"Plath GmbH",,"Communication Profiling, COPS, Thuraya Interception ","DE"
+"Rohde & Schwarz",,"HF-Monitoring, Direction Finding","DE"
+"Selectronic",,"Tracking","DE"
+"Siemens",,"Intelligence Platform, Lawful Interception, Monitoring Center","DE"
+"Syborg",,"Lawful Interception","DE"
+"Trovicor",,"Lawful interception, Monitoring Centers, Siemens Intelligence Center","DE"
+"Utimaco Safeware",,"Network Monitoring, Lawful interception, Data Retention ","DE"
+"Vervis COMINT Services GmbH",,"Monitoring","DE"
+"3M Services",,"Lawful Interception","DE"
+"GAMMA Group",,"Trojans, Tactical Interception","GB"
+"ETI A/S",,"Lawful Interception, Monitoring","DK"
+"Spectronic Systems A/S",,"Speech Recognition","DK"
+"Unispeed A/S",,"Lawful Interception","DK"
+"AGNITIO S.L.",,"Speech Recognition","ES"
+"Alcatel-Lucent",,"Lawful Interception ","FR"
+"AMESYS",,"Tactical and Strategic Interception, Lawful Interception, COMINT, Monitoring, Speech Recognition","FR"
+"AQSACOM",,"Lawful Interception, Internet Monitoring ","FR"
+"QOSMOS",,"Network Intelligence, Deep Packet Inspection (DPI), Identity Tracking ","FR"
+"Thales",,"Surveillance, Detection and Intelligence Platform ","FR"
+"VUPEN",,"Exploits","FR"
+"AUDIOTEL International",,"Tactical COMINT Systems and Countermeasures","GB"
+"Cambridge Consultants",,"Consultancy on mobile Surveillance","GB"
+"COBHAM",,"Tactical GSM Interception","GB"
+"Creativity Software",,"Lawful interception, Location Positioning Infrastructure","GB"
+"DATONG",,"GSM Passive Surveillance, Tactical Interception","GB"
+"Delma MSS",,"GSM Tracking","GB"
+"Detica",,"Information/ Intelligence Processing","GB"
+"Griff Comm Ltd",,"Covert Surveillance","GB"
+"Hidden Technology Systems International Ltd",,"Covert Tracking, Surveillance Devices","GB"
+"Newport Networks",,"VoIP COMINT","GB"
+"Panoptech",,"Convergent Intelligence Platform","GB"
+"telesoft TECHNOLOGIES",,"Lawful interception, SIGINT/COMINT Components, Tactical Monitoring","GB"
+"Teletel",,"Lawful Interception","GR"
+"NETI",,"Monitoring, Analytical Tools, Tactical Appliances ","HU"
+"ClearTrail",,"Lawful Interception, COMINT, Strategic Interception, Mass Monitoring of IP and Voice Networks","IN"
+"Kommlabs Dezign Pvt. Ltd.",,"Lawful Interception, Strategic Interception, Tactical GSM Interception","IN"
+"SHOGI Communications",,"Tactical SIGINT/COMINT Systems","IN"
+"OPENET",,"Lawful Interception","IE"
+"VigiTrust",,"Intelligence Solutions","IE"
+"Ability",,"Satellite interception, Cellular interception, GSM deciphering, Thuraya & ACES Interception systems","IL"
+"Allot Communications Ltd",,"Deep Packet Inspection (DPI)","IL"
+"Cellebrite Mobile Synchronization Ltd.",,"Cell Phone Forensics ","IL"
+"Elbit Systems",,"Intelligence Support, C4I. Collection, Analysis, PC Surveillance, Covert Intelligence","IL"
+"Elta Systems Ltd.",,"SIGINT, Tactical GSM/UMTS/WIMAX/Satellite Interception/Monitoring/Tracking","IL"
+"Gita Technologies Ltd.",,"SIGINT/COMINT","IL"
+"Nice Systems",,"Monitoring, Investigating, Tracking","IL"
+"Septier",,"Dual Usage Strategy of Lawful Interception Systems ","IL"
+"Area Spa",,"Lawful Interception, Tactical Interception","IT"
+"B.E.A. S.r.l.",,"Tactical Interception Devices","IT"
+"DIGINT Srl",,"Lawful Interception","IT"
+"Expert System S.p.A.",,"Semantic Analysis","IT"
+"Hacking Team",,"Trojans ","IT"
+"Innova S.p.A.",,"Lawful interception, Monitoring, Tactical Tracking & Surveillance","IT"
+"IPS Intelligence & Public Security S.p.A.",,"Monitoring, Recording, DPI, MITM","IT"
+"LOQUENDO",,"Broadband Analysis and Monitoring","IT"
+"RCS",,"IP Traffic Analysis, Social Networks Monitoring, Trojans, GSM","IT"
+"Spektra srl",,"Tactical Interception, Positioning/Tracking","IT"
+"IVIGNERI",,"GSM Decryption","MY"
+"Motec",,"Strategical Monitoring, Tactical Surveillance","MY"
+"DigiVox B.V.",,"Lawful Interception, Tactical GSM Interception","NL"
+"Fox-IT",,"Lawful Interception, Interception Analytics","NL"
+"GROUP2000",,"Lawful Interception, Deep Packet Inspection (DPI)","NL"
+"Tinex",,"Lawful Interception, Tactical Interception","NO"
+"ENDACE accelerated",,"Traffic Data Processing, Monitoring","NZ"
+"Audio Video Intelligence Corporation",,"Tactical Audio/Video/GSM Interception","PH"
+"Macro System",,"Lawful Interception, Telecommunication Surveillance","PL"
+"Speech Technology Center, Ltd.",,"Audio Forensics","RU"
+"ISKRATEL",,"Lawful Interception, SORM","SI"
+"Ericsson",,"Ericsson surveillance suite Monitoring, Lawful Interception","SE"
+"Micro Systemation AB",,"Cell Phone Forensics","SE"
+"C Tech Bilişim Teknolojileri San. ve Tic. AS.",,"Lawful Interception, Monitoring, Deep Packet Inspection (DPI)","TR"
+"Tamara Electronic Ltd. Sti",,"Passive Monitoring","TR"
+"Altron",,"Lawful Interception, Monitoring, Recording","UA"
+"Delta SPE",,"Collection & Processing of Packet Data Satellite Services","UA"
+"ACCESSDATA",,"Digital Investigation, Forensics, Decryption ","US"
+"ACME Packet",,"SBCS, MSGs, SRPs, Lawful interception of VoIP","US"
+"BlueCoat",,"Intelligence Centers, Deep Packet Inspection (DPI), Internet Filtering ","US"
+"BRIGHTPLANET",,"Social Network Intelligence","US"
+"CommuniGate Systems",,"Lawful Interception ","US"
+"Comverse",,"Lawful Interception","US"
+"Cyberoam",,"Deep Packet Inspection (DPI)","US"
+"Dialogic",,"SMS Monitoring","US"
+"Gigamon",,"Gigabit Internet Monitoring","US"
+"Glimmerglass",,"Monitoring of optical signals and networks","US"
+"Guidance Software",,"Encase Intelligence Software, Forensics ","US"
+"Harris Wireless Products Group",,"Tactical Mobile Phone Interception and Tracking","US"
+"HSS Development",,"Tactical Mobile Phone Interception and Jamming","US"
+"Intelligentias Inc.",,"Lawful Interception, Data Retention","US"
+"Narus",,"Real-Time IP Traffic Monitoring, Traffic Intelligence, Deep Packet Inspection (DPI)","US"
+"NETOPTICS",,"Access and Monitoring Architecture","US"
+"NETRAGARD",,"Exploits","US"
+"Netquest Corporation",,"Monitoring, Interception","US"
+"NetWitness",,"Internet Monitoring ","US"
+"ONPATH Technologies",,"Lawful Interception","US"
+"Pen Link",,"Collection & Recording of Intercepted Communication","US"
+"Phoenix",,"Speech Recognition","US"
+"Polaris Wireless",,"Lawful Interception","US"
+"retentia",,"Data Retention","US"
+"REUTER",,"Recording Systems for Communication Surveillance","US"
+"SS8 Networks",,"Lawful Interception, Monitoring Center","US"
+"TraceSpan Communications",,"Broadband Analysis and Monitoring","US"
+"Ultrareach",,"Ultrasurf ","US"
+"VERINT (formerly: Comverse Infosys)",,"Lawful Interception","US"
+"Vineyard Networks",,"Lawful Interception, Decryption","US"
+"VOCAL Technologies, Inc.",,"Lawful Interception ","US"
+"OMNI Wildpackets",,"Lawful Interception, VoIP Monitoring","US"
+"Seartech",,"Tactical Surveillance Electronics","ZA"
+"VASTech",,"Network Recording, Passive Surveillance, Strategic Interception","ZA"
+"FinFisher GmbH","https://www.finfisher.com","Trojan","DE"
+"LMW Electronics","http://www.g8lmw.co.uk/","Tactical Surveillance Electronics","GB"
+"Network Critical","http://www.networkcritical.com/","Passive Monitoring","GB"
+"Komcept Solutions","http://komcept.com/","Lawful Interception, Tactical Surveillance Electronics","GB"
+"Smith Myers Communications","http://smithmyers.com","Tactical Mobile Phone Interception and Tracking","GB"
+"EXFO / NetHawk","http://exfo.com","Tactical Mobile Phone Interception and Tracking","CA"
