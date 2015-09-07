@@ -1,2 +1,3 @@
-# data-suppliers
-A data package of suppliers of surveillance tech
+# Surveillance vendors
+
+A data package of surveillance vendors.
